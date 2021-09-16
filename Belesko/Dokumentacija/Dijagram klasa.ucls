@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="belesko.Glavna" project="Belesko" file="/Belesko/src/belesko/Glavna.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="632" y="443"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="belesko.BazaPodataka" project="Belesko" 
+    file="/Belesko/src/belesko/BazaPodataka.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="631" y="192"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="belesko.gui.GUIPrijava" project="Belesko" 
+    file="/Belesko/src/belesko/gui/GUIPrijava.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="632" y="562"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="belesko.gui.GUIRegistracija" project="Belesko" 
+    file="/Belesko/src/belesko/gui/GUIRegistracija.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="927" y="560"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="belesko.gui.GUIGlavna" project="Belesko" 
+    file="/Belesko/src/belesko/gui/GUIGlavna.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="632" y="812"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="belesko.Strana" project="Belesko" file="/Belesko/src/belesko/Strana.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="632" y="1200"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="belesko.Zadatak" project="Belesko" file="/Belesko/src/belesko/Zadatak.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="907" y="1199"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="belesko.Korisnik" project="Belesko" file="/Belesko/src/belesko/Korisnik.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="908" y="811"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="belesko.gui.GUIZadatak" project="Belesko" 
+    file="/Belesko/src/belesko/gui/GUIZadatak.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="326" y="812"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="belesko.gui.GUIUnosZadatka" project="Belesko" 
+    file="/Belesko/src/belesko/gui/GUIUnosZadatka.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1190" y="812"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="belesko.gui.GUIIzmeniZadatak" project="Belesko" 
+    file="/Belesko/src/belesko/gui/GUIIzmeniZadatak.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="172" y="1401"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="belesko.Datum" project="Belesko" file="/Belesko/src/belesko/Datum.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="126" x="8" y="8"/>    
+    <display autosize="false" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="belesko.Fontovi" project="Belesko" file="/Belesko/src/belesko/Fontovi.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="74" width="126" x="8" y="96"/>    
+    <display autosize="false" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="belesko.Ikonice" project="Belesko" file="/Belesko/src/belesko/Ikonice.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="126" x="8" y="181"/>    
+    <display autosize="false" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="belesko.Boje" project="Belesko" file="/Belesko/src/belesko/Boje.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="74" width="126" x="8" y="273"/>    
+    <display autosize="false" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <dependency id="16">    
+    <bendpoint x="758" y="532"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="17">    
+    <bendpoint x="928" y="192"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="18">    
+    <bendpoint x="705" y="444"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="19">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="20" name="korisnik">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="21" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="23" name="strane">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="24" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="26" name="zadaci">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="27" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="29">    
+    <bendpoint x="1190" y="268"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="30">    
+    <bendpoint x="853" y="1401"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="31">    
+    <bendpoint x="758" y="588"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="35">    
+    <bendpoint x="1190" y="1010"/>    
+    <bendpoint x="665" y="1010"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="36">    
+    <bendpoint x="466" y="812"/>    
+    <bendpoint x="466" y="191"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="37">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="38" name="prijava">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="39" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="40">    
+    <bendpoint x="172" y="444"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="41">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="42">    
+    <bendpoint x="326" y="1445"/>    
+    <bendpoint x="909" y="1445"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="44">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="45" name="baza">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="46" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="47">    
+    <bendpoint x="327" y="280"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="false"/>    
+    <operations public="true" package="true" protected="true" private="true" static="false"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>
